@@ -5,7 +5,11 @@ CODE TO MAKE ADJUSTMENTS FOR NON-UPDATED WORK IN THE COURSE
 
 
 
-
+<!-- 
+**** Quick handy tip when dealing with WP functions ****
+Any function that begins with get will not automatically display the result of the function.
+If you want it to display the result you need to add echo before the function call like so:  echo get_theme_uri(...);
+-->
 
 <!-- SETTINGS.JSON FILE IN VS CODE SHOULD HAVE THIS IF EMMET NOT WORKING: -->
 {
