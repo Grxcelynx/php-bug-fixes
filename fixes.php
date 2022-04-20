@@ -103,10 +103,16 @@ END OF CODE/SNIPPET
 -->
 
 
-<!-- LESSON 31 SECTION 7:
+<!-- LESSON 31 SECTION 7: -->
 
-Note: Advanced custom themes fields author's name is no longer Elliot,
- downlaod and activate the the one that matches the icon on the lesson.  -->
+<!--
+    Note: Advanced custom themes fields author's name is no longer Elliot,
+    downlaod and activate the the one that matches the icon on the lesson. 
+ -->
+
+<!--
+     Note: When he says to go to OPTIONS  it is now PREFERANCES -> then PANELS -> then CUSTOM FIELDS
+ -->
 
  <!-- 
 ///////////////////
